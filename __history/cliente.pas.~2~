@@ -1,0 +1,16 @@
+unit cliente;
+
+interface
+
+uses
+  pessoa;
+
+type
+  TCliente = Class(TPessoa)
+    private
+    public
+  End;
+
+implementation
+
+end.
