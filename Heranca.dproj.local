@@ -3,12 +3,12 @@
 	<Transactions>
     <Transaction>2024/05/27 22:29:38.000.844,=C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
     <Transaction>2024/05/30 21:36:44.000.969,=C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/05/30 21:37:26.000.079,C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Projetos\Dev\Projetos\Projetos Delphi\heranca\uForm.Principal.pas</Transaction>
-    <Transaction>2024/05/30 21:37:26.000.079,C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Projetos\Dev\Projetos\Projetos Delphi\heranca\uForm.Principal.dfm</Transaction>
-    <Transaction>2024/05/30 21:37:34.000.672,C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Projetos\Dev\Projetos\Projetos Delphi\heranca\Heranca.dproj</Transaction>
+    <Transaction>2024/05/30 21:37:26.000.079,D:\Projetos\Dev\Projetos\Projetos Delphi\heranca\uForm.Principal.pas=C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/30 21:37:26.000.079,D:\Projetos\Dev\Projetos\Projetos Delphi\heranca\uForm.Principal.dfm=C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/05/30 21:37:34.000.672,D:\Projetos\Dev\Projetos\Projetos Delphi\heranca\Heranca.dproj=C:\Users\Joao\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
     <Transaction>2024/05/30 21:37:43.000.909,=D:\Projetos\Dev\Projetos\Projetos Delphi\heranca\Unit1.pas</Transaction>
-    <Transaction>2024/05/30 21:37:52.000.784,D:\Projetos\Dev\Projetos\Projetos Delphi\heranca\Unit1.pas=D:\Projetos\Dev\Projetos\Projetos Delphi\heranca\pessoa.pas</Transaction>
-    <Transaction>2024/05/30 22:38:58.280,=D:\Projetos\Dev\Projetos\Projetos Delphi\heranca\Unit1.pas</Transaction>
-    <Transaction>2024/05/30 22:39:03.548,D:\Projetos\Dev\Projetos\Projetos Delphi\heranca\cliente.pas=D:\Projetos\Dev\Projetos\Projetos Delphi\heranca\Unit1.pas</Transaction>
+    <Transaction>2024/05/30 21:37:52.000.784,D:\Projetos\Dev\Projetos\Projetos Delphi\heranca\pessoa.pas=D:\Projetos\Dev\Projetos\Projetos Delphi\heranca\Unit1.pas</Transaction>
+    <Transaction>2024/05/30 22:38:58.000.280,=D:\Projetos\Dev\Projetos\Projetos Delphi\heranca\Unit1.pas</Transaction>
+    <Transaction>2024/05/30 22:39:03.000.548,D:\Projetos\Dev\Projetos\Projetos Delphi\heranca\Unit1.pas=D:\Projetos\Dev\Projetos\Projetos Delphi\heranca\cliente.pas</Transaction>
   </Transactions>
 </BorlandProject>
