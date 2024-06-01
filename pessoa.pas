@@ -9,9 +9,11 @@ type
 
   TPessoa = class
   private
+    FCPF: string;
   public
     nome: string;
     DataNascimento: string;
+    property CPF : string read FCPF write FCPF;
     function Idade: Integer;
   end;
 

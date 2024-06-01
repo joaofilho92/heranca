@@ -36,22 +36,28 @@ begin
     // Cliente 1
     pessoa1.nome := 'Joao';
     pessoa1.DataNascimento := '20/05/1992';
+    pessoa1.CPF := '405.025.188-47';
 
     // Cliente 2
     pessoa2.nome := 'Mario';
     pessoa2.DataNascimento := '13/08/1996';
     pessoa2.ValorCredito := 2000;
+    pessoa2.CPF := '123.321.456-88';
 
     // Implementaçao no Memo
+    Memo1.Lines.Add('Cadastro de CLientes');
+    Memo1.Lines.Add('');
     Memo1.Lines.Add('Pessoa: ');
     Memo1.Lines.Add('Nome: ' + pessoa1.nome);
     Memo1.Lines.Add('Data de nascimento: ' + pessoa1.DataNascimento);
     Memo1.Lines.Add('Idade: ' + pessoa1.Idade.ToString);
+    Memo1.Lines.Add('CPF: ' + pessoa1.CPF);
     Memo1.Lines.Add('=============================================');
     Memo1.Lines.Add('Pessoa: ');
     Memo1.Lines.Add('Nome: ' + pessoa2.nome);
     Memo1.Lines.Add('Data de nascimento: ' + pessoa2.DataNascimento);
     Memo1.Lines.Add('Idade: ' + pessoa2.Idade.ToString);
+    Memo1.Lines.Add('CPF: ' + pessoa2.CPF);
     Memo1.Lines.Add('Valor de credito: ' + CurrToStr(pessoa2.ValorCredito));
     Memo1.Lines.Add('=============================================');
 

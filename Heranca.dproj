@@ -104,6 +104,7 @@
         </DCCReference>
         <DCCReference Include="pessoa.pas"/>
         <DCCReference Include="cliente.pas"/>
+        <DCCReference Include="Usuarios.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
